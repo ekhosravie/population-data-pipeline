@@ -1,0 +1,6 @@
+customerId,customerName,segment,signupDate,isActive,countryCode
+C001,John Doe,Premium,2023-01-10,true,US
+C002,Jane Smith,Standard,2023-02-20,true,CA
+C003,Ali Reza,Standard,2023-02-25,false,MY
+C004,Siti Nurhaliza,Premium,2022-11-10,true,US
+C005,Bob Lee,Standard,2023-03-10,false,SG
